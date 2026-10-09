@@ -5,7 +5,7 @@
 #include <Preferences.h>
 
 // --- Matrix Panel Settings (single 80x40 panel) ---
-#define PANEL_RES_X 80      // Width of panel
+#define PANEL_RES_X 160      // Width of panel
 #define PANEL_RES_Y 40      // Height of panel
 #define PANEL_CHAIN 1       // 1 panel connected
 
